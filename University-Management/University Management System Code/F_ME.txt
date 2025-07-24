@@ -1,0 +1,5 @@
+FME001 Dr.Vinay Chaudhary JU ME HOD
+FME002 Sujal Dadhaniya JU ME PROF
+FME003 Sagar Cokshi JU ME ASST_PROF
+FME004 Nipun Gosai JU ME ASST_PROF
+FME005 Vikas Panchal JU ME ASST_PROF

@@ -1,0 +1,5 @@
+FEE001 Dr.Praghnesh Bhatt JU EE HOD
+FEE002 Dr.Kartik Pandya JU EE PROF
+FEE003 Mihir Bhatt JU EE PROF
+FEE004 Maulik Shah JU EE ASST_PROF
+FEE005 Vibha Parmar JU EE ASST_PROF

@@ -1,0 +1,6 @@
+FCE001 Dr.Amit Ganatra JU CE HOD
+FCE002 Ritesh Patel JU CE ASST_PROF
+FCE003 Arpita Shah JU CE ASST_PROF
+FCE004 Ashwin Makwana JU CE ASST_PROF
+FCE005 Hardik Mandora JU CE ASST_PROF
+
