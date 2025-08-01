@@ -79,9 +79,6 @@ public:
         cout<<endl;
         cout<<"\n\t\t "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"         JADAVPUR UNIVERSITY  "<<endl;
         cout<<"\t\t "<<r6<<"                                                FACULTY OF ENGINEERING AND TECHNOLOGY,\n";
-        // cout<<" \t\t "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"                         CHANGA, ANAND.\n";
-        // cout<<" \t\t                              Accredited with Grade A by KCG,\n";
-        // cout<<" \t\t                          Education Department, Govt. of Gujarat.\n\n";
         for(int i=0;i<118;i++)
         cout<<r7;
         cout<<endl;
