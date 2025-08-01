@@ -37,7 +37,7 @@ void admin()
     for(int i=1;i<27;i++)
         cout<<r5;
     cout<<r4<<endl;
-    cout<<"\t\t\t\t\t\t"<<r6<<"\t         ADMIN SECTION      "<<r6<<endl;
+    cout<<"\t\t\t\t\t\t"<<r6<<"\tADMIN SECTION      "<<r6<<endl;
     cout<<"\t\t\t\t\t\t"<<r2;
     for(int i=1;i<27;i++)
         cout<<r5;
@@ -49,7 +49,7 @@ void fac()
     for(int i=1;i<29;i++)
         cout<<r5;
     cout<<r4<<endl;
-    cout<<"\t\t\t\t\t\t"<<r6<<"\t          FACULTY SECTION      "<<r6<<endl;
+    cout<<"\t\t\t\t\t\t"<<r6<<"\tFACULTY SECTION      "<<r6<<endl;
     cout<<"\t\t\t\t\t\t"<<r2;
     for(int i=1;i<29;i++)
         cout<<r5;
@@ -61,7 +61,7 @@ void stud()
     for(int i=1;i<29;i++)
         cout<<r5;
     cout<<r4<<endl;
-    cout<<"\t\t\t\t\t\t"<<r6<<"\t           STUDENT SECTION      "<<r6<<endl;
+    cout<<"\t\t\t\t\t\t"<<r6<<"\tSTUDENT SECTION      "<<r6<<endl;
     cout<<"\t\t\t\t\t\t"<<r2;
     for(int i=1;i<29;i++)
         cout<<r5;
@@ -77,8 +77,9 @@ public:
         for(int i=0;i<118;i++)
         cout<<r7;
         cout<<endl;
-        cout<<"\n\t\t "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"         JADAVPUR UNIVERSITY  "<<endl;
-        cout<<"\t\t "<<r6<<"                                                FACULTY OF ENGINEERING AND TECHNOLOGY,\n";
+        cout<<"\n\t\t "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"                      JADAVPUR UNIVERSITY"<<endl;
+        cout<<"\t\t "<<r6<<" JADABPUR "<<r6<<"             FACULTY OF ENGINEERING AND TECHNOLOGY,\n";
+        cout<<" \t\t "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"                         KOLKATA, WEST BENGAL.\n";
         for(int i=0;i<118;i++)
         cout<<r7;
         cout<<endl;
@@ -336,8 +337,9 @@ public:
         for(int i=1;i<66;i++)
             cout<<r5;
             cout<<r4<<endl;
-        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"     JADAVPUR UNIVERSITY   "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r6<<"                                          FACULTY OF ENGINEERING AND TECHNOLOGY,      "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"     JADAVPUR UNIVERSITY                            "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r6<<" JADABPUR "<<r6<<"        FACULTY OF ENGINEERING AND TECHNOLOGY,      "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"                 KOLKATA, WEST BENGAL               "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                 "<<r6<<endl;
         cout<<"\t"<<r6<<"\t\t\t UNIVERSITY EXAM RESULT \t\t  "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                 "<<r6<<endl;
@@ -522,9 +524,9 @@ else
         for(int i=1;i<66;i++)
             cout<<r5;
             cout<<r4<<endl;
-        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"    JADAVPUR UNIVERSITY   "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r6<<"                                       FACULTY OF ENGINEERING AND TECHNOLOGY,      "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"     JADAVPUR UNIVERSITY                            "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r6<<" JADABPUR "<<r6<<"        FACULTY OF ENGINEERING AND TECHNOLOGY,      "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"              KOLKATA, WEST BENGAL                  "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                 "<<r6<<endl;
         cout<<"\t"<<r6<<"                      UNIVERSITY FEE RECIEPT                     "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                 "<<r6<<endl;
@@ -590,8 +592,10 @@ else
         for(int i=1;i<67;i++)
             cout<<r5;
             cout<<r4<<endl;
-        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"     JADAVPUR UNIVERSITY   "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r6<<"                                        FACULTY OF ENGINEERING AND TECHNOLOGY,       "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"     JADAVPUR UNIVERSITY                             "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r6<<" JADABPUR "<<r6<<"        FACULTY OF ENGINEERING AND TECHNOLOGY,       "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"             KOLKATA, WEST BENGAL.                   "<<r6<<endl;
+        cout<<"\t"<<r6<<"                                                                  "<<r6<<endl;
         cout<<"\t"<<r6<<"\t\t\t   SALARY CERTIFICATE    \t\t   "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                  "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                  "<<r6<<endl;
@@ -1436,6 +1440,20 @@ int main()
                     system("cls");
                 }
                     goto A;
+            }
+        case 0:
+            {
+                char x=221,y=222;
+                cout<<"\n\n\n\n\n\n\n\n";
+                cout<<"\t\t\t\t    "<<x<<" THANK YOU FOR USING COLLEGE MANAGEMENT SYSTEM \a"<<y;
+
+                getch();
+                system("cls");
+                cout<<"\n\n\tPREPARED BY:-"<<endl;
+                cout<<"\n\t"<<x<<" ROHIT KUMAR SHAW      JUIT1026  ";
+                getch();
+                goto E;
+                break;
             }
         default:
             {
